@@ -11,7 +11,7 @@
 
 ?>
 
-<img src="./assets/vadivelu_funny.jpg" alt="">
+<h1>your password have been captured</h1>
 
 <?php
 
